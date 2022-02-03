@@ -1,5 +1,5 @@
 
-## Client
+# Client
 
 ### Instalação
 ```
@@ -9,6 +9,7 @@ npm install
 ### Excutando servidor
 ```
 npm start
+```
 
 # RESTful API de Usuários
 
